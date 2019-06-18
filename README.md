@@ -9,7 +9,7 @@ Bem-vindo ao aplicativo para gerenciar seu estudo.
 # Funcionalidade
 
 Ele é muito simples!
-Trabalha com o conceito de **lista** e **notas**. Uma **lista** contêm várias notas o listas, enquanto uma **nota** só é possível dar check in nele, confirmando que aquela tarefa foi feita. 
+Trabalha com o conceito de **lista** e **notas**. Uma **lista** contêm várias *notas* ou *listas*, enquanto uma **nota** só é possível dar check in nele, confirmando que aquela tarefa foi feita. 
 
 Como o exemplo abaixo:
 
