@@ -13,11 +13,11 @@ Trabalha com o conceito de **lista** e **notas**. Uma **lista** contêm várias 
 
 Como o exemplo abaixo:
 
-* Lista 1
-+ Nota 1
-* Lista 2
-+ Nota 2
-+ Nota 2
+1. Lista
+    + Nota 1
+    + Lista 2
+        + Nota 2
+        + Nota 2
 
 # Pronto!
 
